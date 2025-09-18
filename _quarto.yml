@@ -13,9 +13,7 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: solar
     css: styles.css
     toc: true
     page-layout: full
