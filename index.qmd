@@ -3,6 +3,6 @@ title: "Assignment 3: Collaborative website"
 author: "Quang (https://github.com/qphamhub) & Cody (https://github.com/cndettlaff)"
 ---
 
-This is an assignment for Quang & Cody
+This is an assignment for Quang & Cody that gives you a bit of insight of who we are
 
 ![](images/istockphoto-1204331594-612x612.jpg)
