@@ -1,5 +1,7 @@
 ---
-title: "About"
+title: Quang Pham
 ---
 
-About this site
+-   PhD student
+-   Born in Hanoi
+-   Undergrad in SoCal
