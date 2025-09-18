@@ -1,5 +1,6 @@
 ---
-title: "Our collaborative website"
+title: "Assignment 3: Collaborative website"
+author: "Quang (https://github.com/qphamhub) & Cody (https://github.com/cndettlaff)"
 ---
 
 This is an assignment for Quang & Cody
