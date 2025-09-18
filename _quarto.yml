@@ -10,6 +10,8 @@ website:
         text: Home
       - about.qmd
       - resources.qmd
+      - href: Cody.qmd
+        text: Cody Dettlaff
 
 format:
   html:

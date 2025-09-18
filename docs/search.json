@@ -9,15 +9,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Our collaborative website",
+    "title": "Assignment 3: Collaborative website",
     "section": "",
-    "text": "This is an assignment for Quang & Cody"
+    "text": "This is an assignment for Quang & Cody that gives you a bit of insight of who we are"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Quang Pham",
     "section": "",
-    "text": "About this site"
+    "text": "PhD student\nBorn in Hanoi\nUndergrad in SoCal"
+  },
+  {
+    "objectID": "Cody.html",
+    "href": "Cody.html",
+    "title": "Cody Dettlaff",
+    "section": "",
+    "text": "From the years of 2012 to 2021, I was enlisted in the United States Marine Corps as an infantryman. I went on three deployments: the Balkans, the South Pacific, and the Middle East. Upon leaving, I returned to school to finish my degree.\nTo pursue the activities I care about, I went to Bali to earn my Divemaster certification. I spend six weeks working for Bali Crystal Divers, learning, teaching, and leading dives around Bali.\nWork/life balance is very important to me, and I carried that into my academic career. I spend much of my time planning travel and visting to other contries. I enjoy seeing new spaces and meeting people I wouldn’t otherwise meet. I’ve seen some incredible spaces, my favorite so far, the south island of New Zealand."
+  },
+  {
+    "objectID": "Cody.html#section",
+    "href": "Cody.html#section",
+    "title": "Cody Dettlaff",
+    "section": "",
+    "text": "From the years of 2012 to 2021, I was enlisted in the United States Marine Corps as an infantryman. I went on three deployments: the Balkans, the South Pacific, and the Middle East. Upon leaving, I returned to school to finish my degree.\nTo pursue the activities I care about, I went to Bali to earn my Divemaster certification. I spend six weeks working for Bali Crystal Divers, learning, teaching, and leading dives around Bali.\nWork/life balance is very important to me, and I carried that into my academic career. I spend much of my time planning travel and visting to other contries. I enjoy seeing new spaces and meeting people I wouldn’t otherwise meet. I’ve seen some incredible spaces, my favorite so far, the south island of New Zealand."
   }
 ]
