@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "assignment-3-qnp3"
+  title: "Cool website"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resources.qmd
 
 format:
   html:
@@ -17,6 +18,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 
 
